@@ -1,0 +1,19 @@
+Accelerometer Data
+
+Start time: 0.75	End time: 2.45	Indices: 14 through 48	Linear Distance: X - 0.023264 Y - 0.049210 Z - 76.909828
+Start time: 5.50	End time: 7.10	Indices: 109 through 141	Linear Distance: X - 0.001392 Y - 0.132536 Z - 64.148483
+Start time: 10.35	End time: 10.70	Indices: 206 through 213	Linear Distance: X - 0.000025 Y - 0.000003 Z - 0.661076
+Start time: 10.75	End time: 11.90	Indices: 214 through 237	Linear Distance: X - 0.023774 Y - 0.001683 Z - 23.677931
+Start time: 14.35	End time: 15.65	Indices: 286 through 312	Linear Distance: X - 0.055565 Y - 0.000140 Z - 34.301235
+Start time: 15.70	End time: 16.45	Indices: 313 through 328	Linear Distance: X - 0.003623 Y - -0.000000 Z - 6.574971
+Start time: 18.95	End time: 20.35	Indices: 378 through 406	Linear Distance: X - 0.078693 Y - 0.005012 Z - 46.988300
+Start time: 22.45	End time: 24.35	Indices: 448 through 486	Linear Distance: X - 2.905946 Y - 0.752730 Z - 99.093758
+Start time: 31.20	End time: 33.15	Indices: 623 through 662	Linear Distance: X - 0.007591 Y - 0.003544 Z - 116.091492
+Start time: 37.25	End time: 38.15	Indices: 744 through 762	Linear Distance: X - 0.005931 Y - 0.001964 Z - 11.525572
+Start time: 38.20	End time: 38.25	Indices: 763 through 764	Linear Distance: X - 0.000000 Y - 0.000000 Z - 0.000000
+Start time: 42.80	End time: 44.45	Indices: 855 through 888	Linear Distance: X - 0.212333 Y - 11.371440 Z - 44.332283
+Start time: 47.90	End time: 49.55	Indices: 957 through 990	Linear Distance: X - 0.118492 Y - 53.047028 Z - 6.698342
+Start time: 53.00	End time: 54.30	Indices: 1059 through 1085	Linear Distance: X - 3.551782 Y - 0.000250 Z - 26.575428
+Start time: 58.00	End time: 59.75	Indices: 1159 through 1194	Linear Distance: X - 62.653896 Y - 0.000226 Z - 7.739117
+
+Total Linear distance moved: X - 69.642303 Y - 65.365768 Z - 565.317871

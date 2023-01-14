@@ -1,0 +1,17 @@
+Gyro Data
+
+Start time: 1.00	End time: 2.25	Indices: 19 through 44	Angular Rotations: Pitch - -0.891897 Roll - -0.070565 Yaw - -1.947129
+Start time: 5.70	End time: 7.10	Indices: 113 through 141	Angular Rotations: Pitch - 0.087163 Roll - -0.890655 Yaw - 2.326011
+Start time: 10.85	End time: 11.70	Indices: 216 through 233	Angular Rotations: Pitch - -0.117808 Roll - -0.651219 Yaw - -1.323144
+Start time: 14.60	End time: 14.90	Indices: 291 through 297	Angular Rotations: Pitch - 0.231466 Roll - 0.194218 Yaw - -0.772561
+Start time: 15.05	End time: 15.50	Indices: 300 through 309	Angular Rotations: Pitch - -0.283454 Roll - -0.024591 Yaw - 2.517303
+Start time: 19.15	End time: 20.25	Indices: 382 through 404	Angular Rotations: Pitch - 8.244146 Roll - 6.761027 Yaw - -3.182473
+Start time: 22.60	End time: 24.45	Indices: 451 through 488	Angular Rotations: Pitch - -10.149771 Roll - -8.112433 Yaw - 2.883582
+Start time: 31.05	End time: 33.35	Indices: 620 through 666	Angular Rotations: Pitch - 2.683342 Roll - -0.203964 Yaw - 88.998833
+Start time: 37.10	End time: 38.80	Indices: 741 through 775	Angular Rotations: Pitch - -0.110399 Roll - -0.611722 Yaw - -87.474747
+Start time: 42.70	End time: 44.60	Indices: 853 through 891	Angular Rotations: Pitch - 92.254135 Roll - -5.181520 Yaw - -3.804113
+Start time: 47.80	End time: 49.65	Indices: 955 through 992	Angular Rotations: Pitch - -89.282158 Roll - 1.170890 Yaw - 3.980965
+Start time: 52.90	End time: 54.40	Indices: 1057 through 1087	Angular Rotations: Pitch - -0.302944 Roll - 97.510506 Yaw - -4.210473
+Start time: 57.90	End time: 59.75	Indices: 1157 through 1194	Angular Rotations: Pitch - -2.220811 Roll - -91.883942 Yaw - 2.552216
+
+Total Angular rotations: Pitch - 0.141009 Roll - -1.993973 Yaw - 0.544268
